@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme{
+    --color-header: #C5882C;
+    --color-bgCart: #EFEF00;
+    --color-bgButtonCart: #FEB242;
+}
